@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/badge",
+      "destination": "/api/badge.py"
+    }
+  ]
+}
