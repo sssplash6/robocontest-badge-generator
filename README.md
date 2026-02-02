@@ -2,7 +2,7 @@
 
 A free, open-source web application that generates dynamic, shareable SVG stats cards for any `robocontest.uz` user profile. Perfect for showcasing your competitive programming stats on your GitHub profile or personal website.
 
-![RoboContest Stats Card](https://robocontest-badge-generator-five.vercel.app/api/badge?username=nesamandar)
+![RoboContest Stats Card](https://robocontest-badge-generator-five.vercel.app/api/badge?username=nesamandar)<br>
 *(Live example for the user 'nesamandar')*
 
 ---
