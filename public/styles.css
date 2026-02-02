@@ -58,7 +58,7 @@ input[type="text"]:focus {
 }
 
 button {
-    background-color: #007aff; /* Apple blue */
+    background-color: #000000; /* Apple blue */
     color: white;
     border: none;
     padding: 16px 22px;
@@ -71,7 +71,7 @@ button {
 }
 
 button:hover {
-    background-color: #0071e3;
+    background-color: #5e6973;
     transform: translateY(-2px); /* Slight lift on hover */
 }
 
