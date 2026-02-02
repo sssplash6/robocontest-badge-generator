@@ -1,4 +1,10 @@
 {
+  "builds": [
+    {
+      "src": "/api/badge.py",
+      "use": "@vercel/python"
+    }
+  ],
   "rewrites": [
     {
       "source": "/api/badge",
