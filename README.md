@@ -1,4 +1,4 @@
-# Dynamic RoboContest.uz GitHub Stats Card
+# Dynamic RoboContest.uz GitHub stats card
 
 A free, open-source web application that generates dynamic, shareable SVG stats cards for any `robocontest.uz` user profile. Perfect for showcasing your competitive programming stats on your GitHub profile or personal website.
 
